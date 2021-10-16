@@ -2,7 +2,7 @@ const ENDPOINT = 'https://api.giphy.com/v1/';
 
 export default {
 	// TODO: USER_KEY
-	API_KEY: '23QTtvAzpAVqyXKN0JBxCBMx13zFKQHD',
+	API_KEY: 'hvAnUXZU94XADuL3FIuxO3LjisOHTCRO',
 	// TODO: PATHS ****/
 	API_SEARCH: `${ENDPOINT}gifs/search`,
 	API_AUTOCOMPLETE: `${ENDPOINT}gifs/search/tags`,
